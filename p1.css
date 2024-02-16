@@ -101,6 +101,9 @@ a,
 }
 .roundedimage {
   border-radius: 10px;
+  border-color: #3882f6;
+  border-width: 3px;
+  border-style: solid;
 }
 .content2 {
   background-color: #e5e7eb;
